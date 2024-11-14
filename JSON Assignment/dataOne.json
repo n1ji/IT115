@@ -1,0 +1,14 @@
+{
+    "name": "Myra",
+    "ageInYears": 22.42,
+    "city": "Sunnyside, NY",
+    "interests": [
+        "Headphones",
+        "Technology",
+        "Programming",
+        "Rock Climbing",
+        "Photography",
+        "Webfishing"
+    ],
+    "isStudent": false
+}

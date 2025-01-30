@@ -1,8 +1,13 @@
 import json
+from datetime import datetime
+
+specific_date = datetime(2002, 6, 19, 6, 40)
+current_date = datetime.now()
+time_difference = current_date - specific_date
 
 dataOne = {
     'name':'Myra',
-    'ageInYears':22.4011,
+    'ageInYears': "22",
     'city':'Sunnyside, NY',
     'interests':['Headphones','Technology','Programming','Rock Climbing','Photography'],
     'isStudent': False
